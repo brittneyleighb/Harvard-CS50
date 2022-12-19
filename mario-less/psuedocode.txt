@@ -1,0 +1,4 @@
+Prompt user for height
+If height is less than 1 or more than 8, go back to the first step
+Change from 1 to the height
+If column <= row, print #
