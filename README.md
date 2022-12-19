@@ -11,17 +11,7 @@ CS50 Wikipedia - https://en.wikipedia.org/wiki/CS50
 
 FreeCodeCamp CS50 - https://www.freecodecamp.org/news/harvard-cs50/
 
-Webpage 2 PDF - https://www.web2pdfconvert.com/
-
 Scratch - https://scratch.mit.edu/
-
-Problem sets - https://cs50.harvard.edu/x/2022/psets/
-
-CS50 Class page - https://cs50.me/cs50x
-
-me50/TheKicker - https://github.com/me50/TheKicker
-
-TheKicker/Harvard-CS50 - https://github.com/TheKicker/Harvard-CS50
 
 About
 This is CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.
@@ -54,6 +44,9 @@ David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at H
 Doug Lloyd - Senior Preceptor in Computer Science at Harvard University
 
 Brian Yu - Senior Preceptor in Computer Science at Harvard University
+
+My Scratch Project - https://scratch.mit.edu/projects/765304979
+
 
 
 
