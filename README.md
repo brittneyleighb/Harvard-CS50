@@ -30,9 +30,11 @@ Lecture 09 - Flask
 Lecture 10 - Emoji
 Cybersecurity
 
-Instructors
+#### Instructors
 David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at Harvard University
+
 Doug Lloyd - Senior Preceptor in Computer Science at Harvard University
+
 Brian Yu - Senior Preceptor in Computer Science at Harvard University
 
 #### My Scratch Project - https://scratch.mit.edu/projects/765304979
