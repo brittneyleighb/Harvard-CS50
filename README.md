@@ -1,4 +1,4 @@
-##Harvard University - [CS50 Intro to Computer Science](https://cs50.harvard.edu/x/2022/)
+## Harvard University - [CS50 Intro to Computer Science](https://cs50.harvard.edu/x/2022/)
 Presented by EdX - https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 Please note Harvard's [Academic Honesty Policy](https://cs50.harvard.edu/x/2022/honesty/), please do not copy this code.
 [GitHub Pages](https://pages.github.com/).
@@ -24,7 +24,7 @@ me50/TheKicker - https://github.com/me50/TheKicker
 TheKicker/Harvard-CS50 - https://github.com/TheKicker/Harvard-CS50
 
 About
-This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.
+This is CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.
 
 Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule.
 
@@ -54,4 +54,6 @@ David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at H
 Doug Lloyd - Senior Preceptor in Computer Science at Harvard University
 
 Brian Yu - Senior Preceptor in Computer Science at Harvard University
+
+
 
