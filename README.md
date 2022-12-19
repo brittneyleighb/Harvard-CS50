@@ -47,6 +47,6 @@ Brian Yu - Senior Preceptor in Computer Science at Harvard University
 
 My Scratch Project - https://scratch.mit.edu/projects/765304979
 
-
+!(Gradebook1.png)
 
 
